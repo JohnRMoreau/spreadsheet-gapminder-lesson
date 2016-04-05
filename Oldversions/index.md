@@ -1,14 +1,14 @@
 ---
 layout: lesson
 root: .
-lastupdated: April 4th, 2016
-contributors: ["Christie Bahlai", "Aleksandra Pawlik", "Jennifer Bryan", "Alexander Duryee", "Jeffrey Hollister", "Daisie Huang", "Owen Jones", "Ben Marwick", "Tracy Teal", "John Moreau"]
-maintainers: ["TBD"]
-domain: "Economics and Business"
-topic: Spreadsheets
-software: Spreadsheets
-dataurl: http://teckla.idyll.org/~tracyt/transfer/gapminder-datacarpentry.zip
-status: "beta-testing"
+lastupdated: Month Day, Year
+contributors: ["First Last", "First Last", "Pls Add Others"]
+maintainers: ["First Last", "First Last"]
+domain: Domain Name
+topic: Topic
+software:
+dataurl:
+status: Under Development
 ---
 
 <!-- USING THIS LESSON TEMPLATE -->
@@ -17,12 +17,11 @@ status: "beta-testing"
 <!-- THE LESSON INFORMATION -->
 
 
-#Data Carpentry {{ page.topic }} for {{ page.domain }}
-=======
+# Data Carpentry {{ page.topic }} for {{ page.domain }}
 
 Data Carpentry's aim is to teach researchers basic concepts, skills,
-and tools for working with data so that they can get more done in less
-time, and with less pain. The lessons below were designed for those interested
+and tools for working more effectively with data.
+The lessons below were designed for those interested
 in working with {{page.domain %}} data in {{page.topic %}}.
 
 
@@ -35,11 +34,6 @@ in working with {{page.domain %}} data in {{page.topic %}}.
 **Lesson status: {{ page.status }}**
 
 <!--
-### Instructors
-See [Instructor notes](http://datacarpentry.github.io/spreadsheet-ecology-lesson/instructor_notes.html) on how to teach this lesson.
--->
-
-<!--
   [Information on Lesson Status Categories]()
 -->
 
@@ -47,19 +41,14 @@ See [Instructor notes](http://datacarpentry.github.io/spreadsheet-ecology-lesson
 
 ## Lessons:
 
-1. [Introduction](00-intro.html)
-2. [Formatting data](01-format-data.html)
-3. [Common formatting problems](02-common-mistakes.html)
-4. [Dates as data](03-dates-as-data.html)
-5. [Quality control](04-quality-control.html)
-6. [Exporting data](05-exporting-data.html)
-7. [Data Format Caveats](06-data-formats-caveats.html)
 
+1. [Lesson 00 Name](00-lesson-00-name.html)
+2. [Lesson 01 Name](01-lesson-01-name.html)
 
 
 ## Data
 
-Data files for the lesson are available here: [{{page.dataurl %}}]({{page.dataurl %}})
+Data files for the lesson are available here: ({{page.dataurl %}})[{{page.dataurl %}}]
 
 
 ### Requirements
