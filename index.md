@@ -72,7 +72,7 @@ To most effectively use these materials, please make sure to install everything
 *before* working through this lesson.
 
 
-
+<!--
 
 {% if page.software == "Python" %}
 {% include pythonSetup.html %}
@@ -83,5 +83,5 @@ To most effectively use these materials, please make sure to install everything
 {% else %}
 {% include anySetup.html %}
 {% endif %}
-
+-->
 <p><strong>Twitter</strong>: @datacarpentry
